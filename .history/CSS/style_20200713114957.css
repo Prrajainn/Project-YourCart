@@ -1,0 +1,13 @@
+html{
+    font-size: 82%; 
+    box-sizing: border-box;
+}
+body{
+    font: 1.6rem helvetica;
+    height: 100vh;
+    margin: 0; 
+}
+.grid-container{
+    display: grid;
+    grid-template-areas ;
+}

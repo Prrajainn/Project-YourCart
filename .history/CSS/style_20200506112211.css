@@ -1,0 +1,47 @@
+#topheader{
+    background-color : blue;
+    border-bottom: px solid black;
+}
+#nocolo{
+    color: black;
+}
+.container-fluid{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+nav ul li a{
+
+    font-size: 1.1rem;
+    font-weight: 1000 ;
+}
+/*START OF FOOTER*/
+.full-footer{
+    background-color:#1e3799;
+    width: 100%;
+}
+.top-footer p{
+    color: white;
+}
+.top-footer a{
+ font-weight: 600;
+    color: whitesmoke;
+}
+.top-footer h3{
+    color: white;
+}
+.bottom-footer{
+    background-color:teal;
+}
+.bottom-footer p{
+    color: white;
+}
+/* End of footer*/
+.myimage{
+    width: 50%;
+}
+.top-hero{
+    background-color: salmon;
+}
+.sea{
+  animation-fill-mode: both;
+}
